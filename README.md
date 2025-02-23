@@ -15,7 +15,6 @@
 
 <h3 align="center">Startup Directory Platform</h3>
 
-  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
